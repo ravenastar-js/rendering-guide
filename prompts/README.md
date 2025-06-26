@@ -1,10 +1,10 @@
 🎨✨ Explore abaixo as galerias temáticas de arte digital criadas com inteligência artificial. Cada seção contém uma descrição, categorias e imagens renderizadas. Clique para expandir:
 
 > [!IMPORTANT]  
-> O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada.
+> Os prompts podem ser ajustados de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada.
 
 > [!TIP]
-> As imagens acima são apenas as principais. Veja as demais nos respectivos diretórios.
+> As imagens abaixo são apenas as principais. Veja as demais nos respectivos diretórios.
 
 ---
 
