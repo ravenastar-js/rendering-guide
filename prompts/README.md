@@ -88,7 +88,7 @@
 <details>
 <summary><strong>🔺 Gothic Princess of Egypt</strong></summary>
 
-🔗 [Ver prompt.txt](7/prompt.txt)
+🔗 [Ver 8/prompt.txt](8/prompt.txt)
 
 > Ela repousa no trono onde o tempo evapora ⏳... Seus olhos? Espelhos de eras que ainda não aconteceram 🕰️✨.
 
