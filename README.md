@@ -154,3 +154,9 @@ Generate image: cyberpunk female hacker portrait
 ---
 
 📎 _Dica_: combine esses parâmetros com descrições visuais claras e bem categorizadas para gerar imagens ainda mais alinhadas com sua visão.
+
+---
+
+🎨✨ Explore abaixo as galerias temáticas de arte digital criadas com inteligência artificial.
+
+🔗 [Ver as galerias](prompts/)
