@@ -24,13 +24,13 @@ Background & Graphic Design Elements:
 
 Overlay Graphic Elements (In Bold Green, HEX: #57f287): 
 - Green horizontal rectangle obscuring one eye (left or right)
-- Vertically along the left side: Repeat the name "RAVENASTAR" multiple times, translucent, uppercase, layered opacity effect for depth 
+- Vertically along the left side: Repeat the name 'RAVENASTAR' multiple times, translucent, uppercase, layered opacity effect for depth 
 - Stylized green glowing lotus flower near top of canvas
 - Vertical green line along the far-left edge of the composition 
 - On the right side: A green geometric frame encircling the obscured eye      
-- Bottom-right corner: Phrase "WORK SMART NOT HARD" in bold BEIGE uppercase block letters      
+- Bottom-right corner: Phrase 'WORK SMART NOT HARD' in bold BEIGE uppercase block letters      
 - Beneath “SMART”: Write “CYBERSEC” in an elegant GREEN light soft translucent cursive script as if it’s a personal signature      
-- Bottom-left corner: The hashtag "#RAVENASTAR" in bold green    
+- Bottom-left corner: The hashtag '#RAVENASTAR' in bold green    
 
 Lighting:
 - Soft directional light from top-front, with gentle side shadows
