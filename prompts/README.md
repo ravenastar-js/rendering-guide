@@ -1,6 +1,4 @@
-# Rendering Guide 🎨✨
-
-Explore abaixo as galerias temáticas de arte digital criadas com inteligência artificial. Cada seção contém uma descrição, categorias e imagens renderizadas. Clique para expandir:
+🎨✨ Explore abaixo as galerias temáticas de arte digital criadas com inteligência artificial. Cada seção contém uma descrição, categorias e imagens renderizadas. Clique para expandir:
 
 ---
 
