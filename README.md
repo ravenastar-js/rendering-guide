@@ -1,4 +1,4 @@
-# 🎛️ Rendering Parameters Guide (ChatGPT 4o Image Prompts)
+# 🎛️ Rendering Parameters Guide (ChatGPT Image Prompts)
 
 Este guia apresenta os principais parâmetros que você pode adicionar ao final de um prompt para personalizar a geração de imagens de forma precisa e criativa.
 
