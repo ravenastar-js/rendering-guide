@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> O ChatGPT é capaz de compreender a intenção por trás de diversos parâmetros, mesmo que eles não sejam oficialmente "executáveis", como ocorre no Midjourney. Isso se deve ao fato de o modelo ter sido treinado para interpretar textos de forma contextual. Assim, ao se deparar com instruções como --ar 4:5 ou --no text, ele associa essas expressões a conceitos como “formato retrato” ou “sem elementos de texto” e adapta a imagem de acordo com essa interpretação.
+
+---
+
 # 🎛️ Rendering Parameters Guide (ChatGPT Image Prompts)
 
 Este guia apresenta os principais parâmetros que você pode adicionar ao final de um prompt para personalizar a geração de imagens de forma precisa e criativa.
