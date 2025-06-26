@@ -89,11 +89,11 @@ Explore abaixo as galerias temáticas de arte digital criadas com inteligência 
 </details>
 
 <details>
-<summary><strong>💚 Código & Consciência</strong></summary>
+<summary><strong>💚 Neon Reliquary</strong></summary>
 
 🔗 [Ver prompt.txt](7/prompt.txt)
 
-> Na escuridão do código, encontramos a luz da consciência.
+> 💚✨ Na escuridão do código, encontramos a luz da consciência; quem decifra o mundo digital, desvenda também a si mesmo. 
 
 🗂️ Categorias: gothic, chibi, arte digital
 
