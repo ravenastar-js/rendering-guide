@@ -83,11 +83,45 @@ Remove elementos indesejados da geração.
 
 ---
 
+## 🧪 Parâmetros Avançados (quando disponíveis)
+
+### 🔁 --repeat
+Gera múltiplas variações de uma mesma imagem.
+
+- `--repeat 3` → Gera 3 variações da mesma cena  
+
+### 🖌️ --stylize-mode
+Define modos específicos de estilização.
+
+- `--stylize-mode expressive` → Estilo mais artístico e ousado  
+- `--stylize-mode natural` → Visual mais fotográfico  
+
+### ⏱️ --fast / --slow
+Modifica o tempo de renderização.
+
+- `--fast` → Menos precisão, mais velocidade  
+- `--slow` → Render mais detalhado e demorado  
+
+### 🌈 --color-scheme
+Foca na paleta de cores usada na imagem.
+
+- `--color-scheme pastel`  
+- `--color-scheme neon`  
+- `--color-scheme monochrome`  
+
+### 🪄 --focus
+Dá ênfase a uma parte específica da imagem.
+
+- `--focus foreground` → Destaca o primeiro plano  
+- `--focus background` → Valoriza o plano de fundo  
+
+---
+
 ## 🧪 Exemplo de Prompt Completo
 
 ```text
 Generate image: cyberpunk female hacker portrait  
---ar 4:5 --v 5 --style raw --quality 2 --stylize 150 --chaos 20 --seed 20250626 --uplight --no text
+--ar 4:5 --v 5 --style raw --quality 2 --stylize 150 --chaos 20 --seed 20250626 --uplight --no text --color-scheme neon --focus foreground
 ```
 
 ---
