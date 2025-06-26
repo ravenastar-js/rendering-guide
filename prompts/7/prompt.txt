@@ -1,0 +1,66 @@
+Generate image:
+
+Art Style & Quality:
+- Hyper-detailed 8K ultra-HD portrait
+- Fusion of Gothic doll-like fashion with semi-realistic anime (strong chibi influence on face proportions, like attached reference)
+- Photorealistic skin shading while keeping anime-style eyes and facial symmetry
+- DSLR quality, Hasselblad X2D 100C level rendering
+- 35mm depth of field, soft film grain
+
+Character Design (Face & Hair):
+- Female character with long, voluminous platinum blonde twin ponytails (light golden-blonde with soft green reflective tint)
+- Porcelain-fair skin with light rosy blush on cheeks
+- Large, expressive icy blue-gray anime-style almond eyes with glassy highlights
+- Smokey eye makeup, dark eyeliner, finely defined lashes
+- Matte black lips with sharp heart-shaped cupid’s bow
+- Light blonde, softly arched eyebrows
+- Soft, slightly rounded chibi-style face
+- Expression: Serene, slightly inquisitive, confident, wide-eyed
+
+Background & Graphic Design Elements:    
+- High-contrast black-and-white rendering for the overall portrait (character in grayscale tones)      
+- Background: Smooth, textured minimalist grey backdrop      
+- Ambient light with soft green tint rim highlights on hair and clothes for depth (keep subtle)      
+
+Overlay Graphic Elements (In Bold Green, HEX: #57f287): 
+- Green horizontal rectangle obscuring one eye (left or right)
+- Vertically along the left side: Repeat the name "RAVENASTAR" multiple times, translucent, uppercase, layered opacity effect for depth 
+- Stylized green glowing lotus flower near top of canvas
+- Vertical green line along the far-left edge of the composition 
+- On the right side: A green geometric frame encircling the obscured eye      
+- Bottom-right corner: Phrase "WORK SMART NOT HARD" in bold BEIGE uppercase block letters      
+- Beneath “SMART”: Write “CYBERSEC” in an elegant GREEN light soft translucent cursive script as if it’s a personal signature      
+- Bottom-left corner: The hashtag "#RAVENASTAR" in bold green    
+
+Lighting:
+- Soft directional light from top-front, with gentle side shadows
+- Dramatic contrast and depth
+- Subtle green rim lighting on hair tips (cyber-goth aesthetic)
+
+Rendering Mood:
+- Ultra clean
+- High contrast
+- Art-gallery poster style with digital overlays
+- Hacker / gothic / cyberpunk atmosphere
+
+Reference Color Palette:
+- BS-DARK: #0a0a0a
+- BS-DARK-LIGHT: #1a1a1a
+- BS-SECOND: #45be6c
+- GREEN: #57f287
+- YELLOW: #dfc947
+- BEIGE: #b49a91
+
+Optional Extra Effects:
+- CRT glitch noise static VFX (smooth, translucent, 10% opacity)
+
+Rendering Parameters:
+--ar 4:5
+--v 5
+--style raw
+--quality 2
+--stylize 150
+--chaos 20
+--seed 20250626
+--uplight
+--no text

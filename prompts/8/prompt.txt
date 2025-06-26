@@ -1,0 +1,43 @@
+1. Generate image 
+
+Subject:
+A hyper-realistic, stylized gothic doll-like young woman sitting regally on a lavish, Egyptian-themed throne.
+
+Facial Details:
+Her face is perfectly symmetrical with soft, porcelain-fair skin. She has large, round, anime-style light-gray eyes with subtle glassy highlights and natural tear duct detail. Her matte black lipstick is applied with precision in a heart-shaped cupid’s bow. Eyebrows are arched, light blonde, and finely sculpted. The expression is calm, regal, and slightly curious, with closed lips and wide, alert eyes.
+
+Hairstyle:
+She has long platinum blonde hair styled into two high, voluminous ponytails tied with black velvet bows. Each ponytail falls in loose, soft curls that frame her face and shoulders. Her bangs are parted in the center, shaped into symmetrical curved strands, with subtle texture and individual hair separation visible.
+
+Outfit:
+She wears a hybrid gothic-Egyptian black lace gown with exquisite detail:
+- Strapless corset bodice with a slight sweetheart neckline, outlined by thin golden trim.
+- A wide golden belt cinched at the waist, featuring a central red gemstone shaped exactly like a stylized “Time Relic” (from Crash Bandicoot), in a triangular casing with golden frame and hieroglyphic motifs.
+- Three large red gemstones set vertically along her chest and abdomen, each in unique ornate golden mounts, with the topmost stone surrounded by golden winged ornamentation.
+- Black semi-sheer lace sleeves connected by golden armbands just below her shoulders.
+- The skirt is long and split at the front to reveal one leg, bordered by embroidered golden rope-like trim that flows symmetrically down from the waist.
+
+Jewelry:
+- Choker: Black lace choker with an attached thin golden necklace and small ruby-red pendant.
+- Neckpiece: Golden Egyptian collar with a central red gem, fanned with miniature stylized wings.
+- Armbands: Smooth golden rings with high polish, encircling the upper arms symmetrically.
+- Belt: Central time relic-style ruby embedded in Egyptian gold, extending slightly outward from the waistline.
+
+Throne:
+Massive dark stone throne with intricate Egyptian design:
+- Backrest is a tall, arching slab adorned with a large central winged scarab at the top, surrounding a circular ruby relic.
+- Side panels and armrests are carved with Egyptian hieroglyphics and gold inlays.
+- The armrests end in black-gold lotus carvings, and golden scarabs with ruby centers are inset on the side panels.
+- Seat and back are upholstered with black textured material, matching the gothic palette.
+
+Pose:
+She sits with legs elegantly crossed. Right hand rests loosely on the throne’s right armrest. Left hand rests relaxed on the other armrest. Her shoulders are aligned, spine erect, posture poised like a royal figure.
+
+Environment:
+Ancient Egyptian sandstone chamber, carved walls with symmetrical hieroglyphic patterns in low relief. All carvings are gold-inlaid. The lighting is ambient and golden, coming from above and both sides, illuminating her face, dress textures, and throne reliefs with warm highlights and natural shadow depth.
+
+Lighting & Visuals:
+Warm ambient golden light with soft cinematic contrast. High dynamic range. Realistic shadow falloff and ambient occlusion in folds, carvings, and textures. Polished details on gold and gemstones. Realistic skin subsurface scattering on exposed areas.
+
+Rendering Specs:
+Soft 35mm film grain, 8K resolution, portrait aspect ratio (4:5), ultra-cinematic lighting, slightly stylized realism (anime + baroque fusion), zero distractions, full-body seated composition. Exact replication intent.

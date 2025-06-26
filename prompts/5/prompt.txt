@@ -1,0 +1,14 @@
+[Personagem]
+Menina chibi estilo gótico kawaii, olhos grandes verde-jade com reflexos em camadas, delineador preto espesso, expressão profunda e curiosa. Cabelos longos em rabo de cavalo alto com franja reta, mesclando verde-esmeralda com preto-jato, textura suave e brilho estilizado.
+
+[Roupas e acessórios]
+Top preto sem mangas sobre mangas de rede fishnet, choker prateado grosso com cadeado metálico (sem buraco), médio e realista.
+
+[Cenário]
+Estúdio de podcast moderno com mesa de madeira, microfone preto fosco, parede de tijolos claros ao fundo com letreiro desfocado escrito "PODCAST".
+
+[Iluminação e renderização]
+Cena de estúdio suavemente iluminada com luz difusa (softly lit studio scene), sombras suaves, profundidade de campo moderada. Estilo de renderização 3D estilizado, textura granulada sutil, não totalmente fotorrealista, com acabamento semi-cartoon.
+
+[Atmosfera e estilo geral]
+Mistura de estética fofa e gótica com clima acolhedor, emocional e contemporâneo. Visual detalhado, expressivo e com estética de render 3D semi-realista com toque artístico.

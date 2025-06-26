@@ -1,0 +1,26 @@
+Generate a digital painting in 8K resolution, semi-realistic anime style, showing a gothic princess inspired by Renaissance portraiture, using the character in the attached reference image as facial and stylistic base. 
+
+◾ FACE & HAIR
+- Her face is symmetrical with stylized proportions, large almond-shaped golden-hazel eyes, prominent upper eyelids, defined dark eyeliner with dramatic flick, thick upper lashes, faint lower lashes, and subtle peach shading under the eyes. 
+- She has a refined, slightly mischievous expression with a sharp but delicate jawline, high cheekbones, and subtly arched brows.
+- Her lips are matte black, precisely shaped with a soft heart contour, and there is a subtle rose blush on the upper cheeks.
+- Hair is soft, golden-blonde with creamy platinum tones, styled into high, voluminous twin ponytails with neat, blunt-cut bangs and a small central part. Hair texture is glossy but natural, with subtle flyaways and soft bounce at the ends. Held in place with black ribbons or bands.
+
+◾ DRESS & ACCESSORIES 
+- She wears an elaborate Victorian black dress with gothic elements: off-shoulder corset bodice with velvet texture and lace-up front detail, puffed sleeves with floral semi-transparent lace, and layered ruffled skirt.
+- Around her neck is a tight black lace choker with a central oval pendant featuring a black gemstone framed by filigree, identical to the original.
+- Additional thin chain necklace with small decorative bead details.
+
+◾ CROWN
+- Her crown is regal, ornate, and baroque: made of antique gold with intricate flourishes and a symmetrical structure. Contains small round black and ruby gemstones, with a larger central black gemstone. Crown fits snugly into her hairline, subtly woven between her bangs and ponytails.
+
+◾ BACKGROUND
+- The background is softly blurred to evoke the feeling of an old master’s painting, directly inspired by the Mona Lisa: distant misty mountains, winding river, aged earth tones, and golden light over a hazy sky. Balanced chiaroscuro effect.
+- The lighting is painterly: warm, indirect, softly illuminating her face and upper body with soft shadows under the chin and hands, emulating Renaissance depth and elegance.
+
+◾ POSE & COMPOSITION
+- She is posed front-facing, with a relaxed but regal posture. Hands gently crossed in front of her waist with elegant, pale fingers.
+- Cinematic quality, studio-like ambient light with soft volumetric rays in the background.
+- Mood is refined, mysterious, noble.
+
+--ar 4:5 --style semi-realistic --quality 8k --v 6 --style raw
