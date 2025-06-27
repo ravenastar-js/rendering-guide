@@ -1,0 +1,82 @@
+[
+  {
+    "id": "IA-1",
+    "name": "Gothic Fantasy",
+    "desc": "🍎🕯️ Quando a luz das velas sussurra segredos e a maçã reluz na sombra… o que você escolheria: a verdade ou a tentação?",
+    "promptFile": "prompts/1/prompt.txt",
+    "basePath": "prompts/1",
+    "files": ["file_1.png", "file_2.png", "file_3.png"],
+    "category": ["gothic", "fantasia", "chibi", "arte digital"],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  },
+  {
+    "id": "IA-2",
+    "name": "Cyberpunk Neon",
+    "desc": "🌌🚗 No coração pulsante de Dubai, a noite ganha vida em um espetáculo de velocidade e luz.",
+    "promptFile": "prompts/2/prompt.txt",
+    "basePath": "prompts/2",
+    "files": ["file_1.png", "file_2.png", "file_3.png", "file_4.png"],
+    "category": ["cinematográfica", "cyberpunk", "neon", "arte digital"],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  },
+  {
+    "id": "IA-3",
+    "name": "Walking Through Chaos",
+    "desc": "🔥🚶‍♂️ Entre chamas e destroços, avanço com calma, sem hesitação.",
+    "promptFile": "prompts/3/prompt.txt",
+    "basePath": "prompts/3",
+    "files": ["file_1.png", "file_2.png", "file_3.png"],
+    "category": ["cinematográfica", "heroísmo", "hollywood", "arte digital", "drama"],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  },
+  {
+    "id": "IA-4",
+    "name": "Frozen in Motion",
+    "desc": "🏙️🚶‍♂️ Em meio ao turbilhão da cidade, permaneço imóvel, como uma ilha de calma cercada pelo caos.",
+    "promptFile": "prompts/4/prompt.txt",
+    "basePath": "prompts/4",
+    "files": ["file_1.png", "file_2.png", "file_3.png"],
+    "category": ["cinematográfica", "heroísmo", "hollywood", "arte digital"],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  },
+  {
+    "id": "IA-5",
+    "name": "Gothic Chibi Podcast",
+    "desc": "🎙️🖤 No coração de um estúdio moderno, uma jovem chibi gótica encontra sua voz.",
+    "promptFile": "prompts/5/prompt.txt",
+    "basePath": "prompts/5",
+    "files": ["file_1.png", "file_2.png"],
+    "category": ["gothic", "chibi", "podcast", "arte digital", "estética kawaii"],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  },
+  {
+    "id": "IA-6",
+    "name": "Gothic Royalty",
+    "desc": "👑🕯️ Quando a realeza silencia sob véus de sombra e o ouro reluz entre cicatrizes do tempo… seria ela memória, mistério ou reflexo da alma?",
+    "promptFile": "prompts/6/prompt.txt",
+    "basePath": "prompts/6",
+    "files": ["file_1.png", "file_2.png", "file_3.png", "file_4.png", "file_5.png"],
+    "category": ["gothic", "arte digital"],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  },
+  {
+    "id": "IA-7",
+    "name": "Neon Reliquary",
+    "desc": "💚✨ Na escuridão do código, encontramos a luz da consciência; quem decifra o mundo digital, desvenda também a si mesmo.",
+    "promptFile": "prompts/7/prompt.txt",
+    "basePath": "prompts/7",
+    "files": ["file_1.png", "file_2.png", "file_3.png"],
+    "category": ["gothic", "chibi", "arte digital"],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  },
+  {
+    "id": "IA-8",
+    "name": "Gothic princess of Egypt",
+    "desc": "Ela repousa no trono onde o tempo evapora ⏳, entre relíquias que sussurram segredos esquecidos 🔺👁️. Seus olhos? Espelhos de eras que ainda não aconteceram 🕰️✨.",
+    "promptFile": "prompts/8/prompt.txt",
+    "basePath": "prompts/8",
+    "files": ["file_1.png"],
+    "category": ["gothic", "fantasia", "chibi", "arte digital"],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  }
+]
