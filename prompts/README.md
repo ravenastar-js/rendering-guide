@@ -95,7 +95,16 @@
 ![Egyptian Princess](8/file_1.png)
 
 </details>
+<details>
+<summary><strong>📱 Selfie em LA</strong></summary>
 
+🔗 [Ver 9/prompt.txt](9/prompt.txt)
+
+> Entre postes de luz trêmulos e neon borrado 🌃📱, um clique despretensioso captura dois rostos familiares, espontâneo, desfocado, e deliciosamente imperfeito. É o tipo de imagem que ninguém planejou, mas todo mundo ama pelo caos real da vida urbana 💫✨.
+
+![Selfie em LA](9/file_1.png)
+
+</details>
 ---
 
 

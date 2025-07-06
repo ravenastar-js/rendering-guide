@@ -5,8 +5,17 @@
     "desc": "🍎🕯️ Quando a luz das velas sussurra segredos e a maçã reluz na sombra… o que você escolheria: a verdade ou a tentação?",
     "promptFile": "prompts/1/prompt.txt",
     "basePath": "prompts/1",
-    "files": ["file_1.png", "file_2.png", "file_3.png"],
-    "category": ["gothic", "fantasia", "chibi", "arte digital"],
+    "files": [
+      "file_1.png",
+      "file_2.png",
+      "file_3.png"
+    ],
+    "category": [
+      "gothic",
+      "fantasia",
+      "chibi",
+      "arte digital"
+    ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
   },
   {
@@ -15,8 +24,18 @@
     "desc": "🌌🚗 No coração pulsante de Dubai, a noite ganha vida em um espetáculo de velocidade e luz.",
     "promptFile": "prompts/2/prompt.txt",
     "basePath": "prompts/2",
-    "files": ["file_1.png", "file_2.png", "file_3.png", "file_4.png"],
-    "category": ["cinematográfica", "cyberpunk", "neon", "arte digital"],
+    "files": [
+      "file_1.png",
+      "file_2.png",
+      "file_3.png",
+      "file_4.png"
+    ],
+    "category": [
+      "cinematográfica",
+      "cyberpunk",
+      "neon",
+      "arte digital"
+    ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
   },
   {
@@ -25,8 +44,18 @@
     "desc": "🔥🚶‍♂️ Entre chamas e destroços, avanço com calma, sem hesitação.",
     "promptFile": "prompts/3/prompt.txt",
     "basePath": "prompts/3",
-    "files": ["file_1.png", "file_2.png", "file_3.png"],
-    "category": ["cinematográfica", "heroísmo", "hollywood", "arte digital", "drama"],
+    "files": [
+      "file_1.png",
+      "file_2.png",
+      "file_3.png"
+    ],
+    "category": [
+      "cinematográfica",
+      "heroísmo",
+      "hollywood",
+      "arte digital",
+      "drama"
+    ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
   },
   {
@@ -35,8 +64,17 @@
     "desc": "🏙️🚶‍♂️ Em meio ao turbilhão da cidade, permaneço imóvel, como uma ilha de calma cercada pelo caos.",
     "promptFile": "prompts/4/prompt.txt",
     "basePath": "prompts/4",
-    "files": ["file_1.png", "file_2.png", "file_3.png"],
-    "category": ["cinematográfica", "heroísmo", "hollywood", "arte digital"],
+    "files": [
+      "file_1.png",
+      "file_2.png",
+      "file_3.png"
+    ],
+    "category": [
+      "cinematográfica",
+      "heroísmo",
+      "hollywood",
+      "arte digital"
+    ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
   },
   {
@@ -45,8 +83,17 @@
     "desc": "🎙️🖤 No coração de um estúdio moderno, uma jovem chibi gótica encontra sua voz.",
     "promptFile": "prompts/5/prompt.txt",
     "basePath": "prompts/5",
-    "files": ["file_1.png", "file_2.png"],
-    "category": ["gothic", "chibi", "podcast", "arte digital", "estética kawaii"],
+    "files": [
+      "file_1.png",
+      "file_2.png"
+    ],
+    "category": [
+      "gothic",
+      "chibi",
+      "podcast",
+      "arte digital",
+      "estética kawaii"
+    ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
   },
   {
@@ -55,8 +102,17 @@
     "desc": "👑🕯️ Quando a realeza silencia sob véus de sombra e o ouro reluz entre cicatrizes do tempo… seria ela memória, mistério ou reflexo da alma?",
     "promptFile": "prompts/6/prompt.txt",
     "basePath": "prompts/6",
-    "files": ["file_1.png", "file_2.png", "file_3.png", "file_4.png", "file_5.png"],
-    "category": ["gothic", "arte digital"],
+    "files": [
+      "file_1.png",
+      "file_2.png",
+      "file_3.png",
+      "file_4.png",
+      "file_5.png"
+    ],
+    "category": [
+      "gothic",
+      "arte digital"
+    ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
   },
   {
@@ -65,8 +121,16 @@
     "desc": "💚✨ Na escuridão do código, encontramos a luz da consciência; quem decifra o mundo digital, desvenda também a si mesmo.",
     "promptFile": "prompts/7/prompt.txt",
     "basePath": "prompts/7",
-    "files": ["file_1.png", "file_2.png", "file_3.png"],
-    "category": ["gothic", "chibi", "arte digital"],
+    "files": [
+      "file_1.png",
+      "file_2.png",
+      "file_3.png"
+    ],
+    "category": [
+      "gothic",
+      "chibi",
+      "arte digital"
+    ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
   },
   {
@@ -75,8 +139,31 @@
     "desc": "Ela repousa no trono onde o tempo evapora ⏳, entre relíquias que sussurram segredos esquecidos 🔺👁️. Seus olhos? Espelhos de eras que ainda não aconteceram 🕰️✨.",
     "promptFile": "prompts/8/prompt.txt",
     "basePath": "prompts/8",
-    "files": ["file_1.png"],
-    "category": ["gothic", "fantasia", "chibi", "arte digital"],
+    "files": [
+      "file_1.png"
+    ],
+    "category": [
+      "gothic",
+      "fantasia",
+      "chibi",
+      "arte digital"
+    ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. Além disso, é possível incluir imagens como exemplo para auxiliar a IA na criação da imagem desejada."
+  },
+  {
+    "id": "IA-9",
+    "name": "Selfie em LA",
+    "desc": "Entre postes de luz trêmulos e neon borrado 🌃📱, um clique despretensioso captura dois rostos familiares, espontâneo, desfocado, e deliciosamente imperfeito. É o tipo de imagem que ninguém planejou, mas todo mundo ama pelo caos real da vida urbana 💫✨.",
+    "promptFile": "prompts/9/prompt.txt",
+    "basePath": "prompts/9",
+    "files": [
+      "file_1.png"
+    ],
+    "category": [
+      "gothic",
+      "chibi",
+      "arte digital"
+    ],
+    "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. A foto representa um momento espontâneo. Reforce a fidelidade aos traços do personagem principal. É possível incluir referências visuais para maior precisão na criação."
   }
 ]
