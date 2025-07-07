@@ -105,6 +105,5 @@
 ![Selfie em LA](9/file_1.png)
 
 </details>
----
 
 
