@@ -105,5 +105,13 @@
 ![Selfie em LA](9/file_1.png)
 
 </details>
+<details>
+<summary><strong>👑 The Princess of Green Whispers</strong></summary>
 
+🔗 [Ver 10/prompt.txt](10/prompt.txt)
 
+> ✨ Na quietude entre os mundos, ela escuta o que os ventos esquecem, 🦋 e nas asas das borboletas, 💚 carrega segredos que só o silêncio compreende.
+
+![👑 The Princess of Green Whispers](10/file_1.png)
+
+</details>
