@@ -165,5 +165,23 @@
       "arte digital"
     ],
     "notes": "⚠️ O prompt pode ser ajustado de acordo com sua preferência. A foto representa um momento espontâneo. Reforce a fidelidade aos traços do personagem principal. É possível incluir referências visuais para maior precisão na criação."
-  }
+  },
+    {
+    "id": "IA-10",
+    "name": "👑 The Princess of Green Whispers",
+    "desc": "✨ Na quietude entre os mundos, ela escuta o que os ventos esquecem, 🦋 e nas asas das borboletas, 💚 carrega segredos que só o silêncio compreende.",
+    "promptFile": "prompts/10/prompt.txt",
+    "basePath": "prompts/10",
+    "files": [
+      "file_1.png"
+    ],
+    "category": [
+      "gothic",
+      "chibi",
+      "arte digital",
+      "cinematográfica",
+      "fantasia"
+    ],
+    "notes": "🖼️ Anexar imagem de referência sua ou de qualquer outro personagem.💡 Complementar ou alterar o prompt com informações adicionais."
+    }
 ]
