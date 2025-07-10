@@ -168,7 +168,7 @@
    },
    {
       "id":"IA-10",
-      "name":"👑 The Princess of Green Whispers",
+      "name":"The Princess of Green Whispers",
       "desc":"✨ Na quietude entre os mundos, ela escuta o que os ventos esquecem, 🦋 e nas asas das borboletas, 💚 carrega segredos que só o silêncio compreende.",
       "promptFile":"prompts/10/prompt.txt",
       "basePath":"prompts/10",
