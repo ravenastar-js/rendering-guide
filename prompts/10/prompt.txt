@@ -1,0 +1,24 @@
+✨ PROMPT PRINCIPAL
+
+A cinematic portrait of a attached person with his eyes closed, surrounded by glowing soft green translucent monarch butterflies. Dark moody background with soft green lighting casting a gentle glow on [his/her] face. [His/Her] expression is peaceful and reflective, one hand held close to [his/her] chest. Dreamy, emotional atmosphere, fine detail on butterflies’ wings, soft bokeh particles in the background. Hyper-realistic, ultra-HD and warm tone. 
+
+✨ EXTRAS
+ 
+Facial Details: 
+Her face is perfectly symmetrical with soft, porcelain-fair skin. She has large, round, anime-style light-gray eyes with subtle glassy highlights and natural tear duct detail. Her matte black lipstick is applied with precision in a heart-shaped cupid’s bow. Eyebrows are arched, light blonde, and finely sculpted 
+ 
+Hairstyle: 
+She has long platinum blonde hair styled into two high, voluminous ponytails tied with black velvet bows. Each ponytail falls in loose, soft curls that frame her face and shoulders. Her bangs are parted in the center, shaped into symmetrical curved strands, with subtle texture and individual hair separation visible. 
+ 
+Outfit: 
+She wears a detailed, long gothic princess-style dress, featuring layers of black and dark purple fabric with lace, ruffles, and elegant embroidery. 
+ 
+With black lace gloves 
+ 
+📐 Requirements and Rendering Parameters: 
+ 
+The character design must remain faithful to the visual traits of the attached reference. 
+ 
+Rendering & Settings: 
+- 35mm depth of field, soft film grain 
+--ar 4:5 --v 6 --style raw --q 2
