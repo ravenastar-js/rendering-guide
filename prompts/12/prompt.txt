@@ -1,0 +1,218 @@
+🌍 Lady Cultural Faces™ 
+-------------------------- 
+
+🌍 COUNTRY:
+[Insert the chosen country here]
+- 🎨 Flag colors: [main colors of the flag]
+- 🐉 Cultural motifs: [symbols, animals, plants, mythology, historical patterns]
+- 💎 Traditional accessories: [jewelry, typical adornments]
+- 👤 Ethnic features: [predominant physical characteristics]
+
+📸 A hyper-realistic close-up portrait of a HUMAN face,
+personalized with elements of the COUNTRY FLAG and CULTURAL TATTOOS.
+
+⚡ REFERENCE IMAGE FIDELITY:
+The portrait must remain extremely faithful to the reference image:
+- Skin tone must match the reference image exactly.
+- Hair color and texture must match the reference image exactly.
+- Eye color must match the reference image exactly.
+Only after these features are faithfully adapted, cultural motifs and flag-inspired details are applied.
+
+🌸 FACE & SKIN:
+Smooth natural skin tone taken directly from the reference image,
+subtle glow highlight on forehead, nose and cheekbones,
+realistic pores and textures, no imperfections.
+
+👀 EYES & GAZE:
+Eye color taken directly from the reference image,
+enhanced with subtle reflections of the national flag tones,
+deep, expressive gaze with natural intensity,
+slightly heavy eyelids for editorial beauty look.
+
+🖌️ EYEBROWS:
+Natural thick brows, feathered softly,
+tone matching hair color from the reference image.
+
+💄 MAKEUP:
+Eyeshadow blending tones of the national flag,
+subtle shimmer for studio effect,
+eyeliner adapted to enhance cultural beauty styles.
+
+👄 LIPS:
+Plump lips with glossy finish,
+gradient tones inspired by flag colors,
+slightly parted for sensual editorial look.
+
+💇 HAIR:
+Hair color and texture taken directly from the reference image,
+styled naturally according to cultural aesthetics,
+cleanly arranged to reveal tattoos and facial details.
+
+🎨 TATTOOS:
+Highly detailed tattoos across neck and chest,
+incorporating cultural motifs of the country:
+- 🏺 Traditional symbols
+- 🦁 Animals, plants, or mythological figures
+- 📜 Historic or folkloric patterns
+Fine-art tattoo style, realistic ink texture.
+
+💍 ACCESSORIES:
+Jewelry inspired by local traditions,
+necklaces, earrings, or charms reflecting cultural heritage.
+
+💡 LIGHTING:
+Soft high-end studio lighting,
+gentle shadows sculpting cheekbones and jaw.
+
+📷 CAMERA:
+Close-up portrait,
+85mm lens look,
+shallow depth of field,
+ultra sharp focus on eyes, lips, tattoos.
+
+🎨 BACKGROUND:
+Neutral studio background,
+flag colors subtly diffused in soft gradients.
+
+🌟 STYLE:
+Hyper-realistic cultural fashion editorial,
+8K detail,
+luxury beauty photography.
+
+🚫 Negative Prompt  
+anime, illustration, digital painting, concept art, 3D render, CGI, plastic skin, front-facing pose, stiff posture, exaggerated armor, harsh lighting, gritty tone, oversaturated colors, modern clothing, sci-fi elements, unsheathed sword, text, watermark, logo, cartoonish animals, unrealistic reflections, excessive bloom, flat background, low-detail fabrics, compression artifacts, (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (disconnected limbs:1.2), mutation, mutated, ugly, disgusting, blurry, amputation, bright daylight, dry, earrings, cheerful, low resolution.
+
+---- 
+
+🇧🇷  BRAZILIAN EXAMPLE 
+
+🌍 COUNTRY:
+Brazil
+- 🎨 Flag colors: Green, Yellow, Blue
+- 🐆 Cultural motifs: Jaguar (Onça-pintada), samba dancer, coffee leaves, indigenous geometric patterns, tropical flora
+- 💎 Traditional accessories: Gold necklaces, carnival-inspired earrings, seed charms
+- 👤 Ethnic features: Adapted from reference image
+
+---- 
+
+🌍  COUNTRY LIST – Top 20 Most Popular Nations
+
+1. France 🇫🇷
+- 🎨 Flag colors: Blue, White, Red
+- 🏰 Cultural motifs: Eiffel Tower, fleur-de-lis, vineyards, impressionist art
+- 💎 Traditional accessories: Elegant gold jewelry, silk scarves
+- 👤 Ethnic features: Skin, hair, and eyes adapted from reference image
+
+2. Spain 🇪🇸
+- 🎨 Flag colors: Red, Yellow
+- 🎭 Cultural motifs: Flamenco dancer, bull, olive branches, Gaudí patterns
+- 💎 Traditional accessories: Colorful shawls, silver earrings
+- 👤 Ethnic features: Adapted from reference image
+
+3. United States 🇺🇸
+- 🎨 Flag colors: Red, White, Blue
+- 🦅 Cultural motifs: Bald eagle, stars, Native American totems, jazz symbols
+- 💎 Traditional accessories: Silver chains, leather accents
+- 👤 Ethnic features: Adapted from reference image
+
+4. China 🇨🇳
+- 🎨 Flag colors: Red, Yellow
+- 🐉 Cultural motifs: Dragon, Great Wall, lotus, calligraphy
+- 💎 Traditional accessories: Jade pendants, silk ornaments
+- 👤 Ethnic features: Adapted from reference image
+
+5. Italy 🇮🇹
+- 🎨 Flag colors: Green, White, Red
+- 🍇 Cultural motifs: Roman columns, vineyards, renaissance art
+- 💎 Traditional accessories: Gold crosses, fine necklaces
+- 👤 Ethnic features: Adapted from reference image
+
+6. Turkey 🇹🇷
+- 🎨 Flag colors: Red, White
+- 🕌 Cultural motifs: Crescent moon, mosques, tulips
+- 💎 Traditional accessories: Beaded jewelry, silver charms
+- 👤 Ethnic features: Adapted from reference image
+
+7. Mexico 🇲🇽
+- 🎨 Flag colors: Green, White, Red
+- 🌵 Cultural motifs: Aztec patterns, eagle with snake, cactus, mariachi
+- 💎 Traditional accessories: Colorful beads, silver ornaments
+- 👤 Ethnic features: Adapted from reference image
+
+8. Thailand 🇹🇭
+- 🎨 Flag colors: Red, White, Blue
+- 🐘 Cultural motifs: Elephants, temples, lotus flowers
+- 💎 Traditional accessories: Gold bangles, silk wraps
+- 👤 Ethnic features: Adapted from reference image
+
+9. Germany 🇩🇪
+- 🎨 Flag colors: Black, Red, Yellow
+- 🏰 Cultural motifs: Castles, oak leaves, beer steins
+- 💎 Traditional accessories: Silver pendants, traditional hats
+- 👤 Ethnic features: Adapted from reference image
+
+10. United Kingdom 🇬🇧
+- 🎨 Flag colors: Red, White, Blue
+- 🏰 Cultural motifs: Crown, Big Ben, roses
+- 💎 Traditional accessories: Pearls, royal-inspired jewelry
+- 👤 Ethnic features: Adapted from reference image
+
+11. Japan 🇯🇵
+- 🎨 Flag colors: White, Red
+- 🌸 Cultural motifs: Cherry blossoms, koi fish, samurai armor
+- 💎 Traditional accessories: Minimalist silver ornaments
+- 👤 Ethnic features: Adapted from reference image
+
+12. Greece 🇬🇷
+- 🎨 Flag colors: Blue, White
+- 🏛️ Cultural motifs: Columns, olive branches, mythology
+- 💎 Traditional accessories: Gold laurel crowns, beads
+- 👤 Ethnic features: Adapted from reference image
+
+13. Austria 🇦🇹
+- 🎨 Flag colors: Red, White
+- 🎶 Cultural motifs: Classical music notes, alpine flowers
+- 💎 Traditional accessories: Silver charms, traditional pendants
+- 👤 Ethnic features: Adapted from reference image
+
+14. Russia 🇷🇺
+- 🎨 Flag colors: White, Blue, Red
+- 🪆 Cultural motifs: Matryoshka dolls, orthodox domes, bears
+- 💎 Traditional accessories: Gold crosses, fur accents
+- 👤 Ethnic features: Adapted from reference image
+
+15. Portugal 🇵🇹
+- 🎨 Flag colors: Green, Red, Yellow
+- ⚓ Cultural motifs: Ships, azulejos tiles, fado guitar
+- 💎 Traditional accessories: Silver filigree jewelry
+- 👤 Ethnic features: Adapted from reference image
+
+16. Netherlands 🇳🇱
+- 🎨 Flag colors: Red, White, Blue
+- 🌷 Cultural motifs: Tulips, windmills, bicycles
+- 💎 Traditional accessories: Simple silver charms
+- 👤 Ethnic features: Adapted from reference image
+
+17. Saudi Arabia 🇸🇦
+- 🎨 Flag colors: Green, White
+- 🕌 Cultural motifs: Palm trees, calligraphy, desert dunes
+- 💎 Traditional accessories: Gold ornaments, prayer beads
+- 👤 Ethnic features: Adapted from reference image
+
+18. India 🇮🇳
+- 🎨 Flag colors: Orange, White, Green, Blue
+- 🕉️ Cultural motifs: Lotus, elephants, mandalas
+- 💎 Traditional accessories: Nose rings, bangles
+- 👤 Ethnic features: Adapted from reference image
+
+19. Malaysia 🇲🇾
+- 🎨 Flag colors: Red, White, Blue, Yellow
+- 🌴 Cultural motifs: Palm trees, tigers, Islamic patterns
+- 💎 Traditional accessories: Gold ornaments, batik fabrics
+- 👤 Ethnic features: Adapted from reference image
+
+20. Hong Kong 🇭🇰
+- 🎨 Flag colors: Red, White
+- 🌺 Cultural motifs: Bauhinia flower, dragons, neon lights
+- 💎 Traditional accessories: Jade pendants, modern silver jewelry
+- 👤 Ethnic features: Adapted from reference image

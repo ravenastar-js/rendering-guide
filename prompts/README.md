@@ -19,6 +19,8 @@
 
 </details>
 
+---
+
 <details>
 <summary><strong>🌌 Cyberpunk Neon</strong></summary>
 
@@ -29,6 +31,8 @@
 ![Cyberpunk Neon](2/file_1.png)
 
 </details>
+
+---
 
 <details>
 <summary><strong>🔥 Walking Through Chaos</strong></summary>
@@ -41,6 +45,8 @@
 
 </details>
 
+---
+
 <details>
 <summary><strong>🏙️ Frozen in Motion</strong></summary>
 
@@ -51,6 +57,8 @@
 ![Frozen in Motion](4/file_1.png)
 
 </details>
+
+---
 
 <details>
 <summary><strong>🎙️ Gothic Chibi Podcast</strong></summary>
@@ -63,6 +71,8 @@
 
 </details>
 
+---
+
 <details>
 <summary><strong>👑 Gothic Royalty</strong></summary>
 
@@ -73,6 +83,8 @@
 ![Gothic Royalty](6/file_1.png)
 
 </details>
+
+---
 
 <details>
 <summary><strong>💚 Neon Reliquary</strong></summary>
@@ -85,6 +97,8 @@
 
 </details>
 
+---
+
 <details>
 <summary><strong>🔺 Gothic Princess of Egypt</strong></summary>
 
@@ -95,6 +109,9 @@
 ![Egyptian Princess](8/file_1.png)
 
 </details>
+
+---
+
 <details>
 <summary><strong>📱 Selfie em LA</strong></summary>
 
@@ -105,6 +122,9 @@
 ![Selfie em LA](9/file_1.png)
 
 </details>
+
+---
+
 <details>
 <summary><strong>👑 The Princess of Green Whispers</strong></summary>
 
@@ -113,5 +133,31 @@
 > ✨ Na quietude entre os mundos, ela escuta o que os ventos esquecem, 🦋 e nas asas das borboletas, 💚 carrega segredos que só o silêncio compreende.
 
 ![👑 The Princess of Green Whispers](10/file_1.png)
+
+</details>
+
+---
+
+<details>
+<summary><strong>✨ Fairy-Punk Elven Beauty</strong></summary>
+
+🔗 [Ver 11/prompt.txt](11/prompt.txt)
+
+> 🧝✨ Entre tatuagens que contam histórias e olhos que seduzem como vidro cinzento, surge a elfa punk-fada — um retrato hiper-realista onde a fantasia encontra a moda editorial.
+
+![👑 The Princess of Green Whispers](11/file_1.png)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🌍 Lady Cultural Faces™</strong></summary>
+
+🔗 [Ver 12/prompt.txt](12/prompt.txt)
+
+> 🇧🇷🌿 Um close-up editorial hiper-realista: rosto humano fiel à referência, enriquecido com tatuagens de onça-pintada, folhas de café e padrões indígenas. Maquiagem em verde, amarelo e azul, acessórios dourados e inspiração carnavalesca.
+
+![👑 The Princess of Green Whispers](12/file_1.png)
 
 </details>
