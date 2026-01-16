@@ -145,7 +145,7 @@
 
 > 🧝✨ Entre tatuagens que contam histórias e olhos que seduzem como vidro cinzento, surge a elfa punk-fada — um retrato hiper-realista onde a fantasia encontra a moda editorial.
 
-![👑 The Princess of Green Whispers](11/file_1.png)
+![✨ Fairy-Punk Elven Beauty](11/file_1.png)
 
 </details>
 
@@ -158,7 +158,7 @@
 
 > 🇧🇷🌿 Entre cores e raízes, o rosto se torna poesia: força, beleza e memória de um povo.
 
-![👑 The Princess of Green Whispers](12/file_1.png)
+![🌍 Lady Cultural Faces™](12/file_1.png)
 
 </details>
 
@@ -171,6 +171,58 @@
 
 > 🕶️🌧️ No vento e na chuva, ela permanece firme. Força e elegância diante do caos.
 
-![👑 The Princess of Green Whispers](13/file_1.png)
+![🕶️ Secret Agent on Helipad](13/file_1.png)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🌌🕷️ Glitch Superhero Essence</strong></summary>
+
+🔗 [Ver 14/prompt.txt](14/prompt.txt)
+
+> 🌌🕷️ No caos urbano de neon, surge um herói forjado na própria identidade. Fragmentos e símbolos se entrelaçam em sua pele, revelando coragem e mistério. Entre luzes vermelhas e pretas, sua presença é aura viva — poder que transcende o multiverso.
+
+![🌌🕷️ Glitch Superhero Essence](14/file_1.png)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🛡️ Guardião/Guerreira NEO-ASTRA</strong></summary>
+
+🔗 [Ver 15/prompt.txt](15/prompt.txt)
+
+> 🛡️🌌 Entre sombras e luz, ergue-se a figura que guarda o infinito. O sabre brilha como promessa, a postura firme revela coragem. No silêncio do cosmos, sua presença é destino — força que atravessa eras e mundos.
+
+![🛡️ Guardião/Guerreira NEO-ASTRA](15/file_1.png)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🛡️ NEO-ASTRA SPIDER</strong></summary>
+
+🔗 [Ver 16/prompt.txt](16/prompt.txt)
+
+> 🕷️🌌 Entre neon e caos, nasce o herói multiversal. O rosto humano permanece real, mas o traje pulsa como teia de energia. Cada cor reflete mundos possíveis, cada luz revela coragem. No infinito urbano, sua presença é ponte entre destino e mistério.
+
+![🛡️ NEO-ASTRA SPIDER](16/file_1.png)
+
+</details>
+
+---
+
+<details>
+<summary><strong>👑 Rainha Egípcia Cinematográfica</strong></summary>
+
+🔗 [Ver 17/prompt.txt](17/prompt.txt)
+
+> 👑✨ Ela surge como divindade em carne, olhar penetrante e postura majestosa. Entre ouro e sombras, sua presença é poder e mistério, eternizados em luz e silêncio.
+
+![👑 Rainha Egípcia Cinematográfica](17/file_1.png)
 
 </details>

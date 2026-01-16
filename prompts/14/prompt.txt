@@ -1,0 +1,11 @@
+🌌 Ultra-detailed 8K Portrait  
+Glitch urban aesthetic, cinematic neon lighting, abstract red and black background, dripping spider-symbol style, fragmented textures, hyper-realistic clothing and environment, inspired by Spider-Verse concept art.  
+
+🖼️ Face Reference  
+Use only the provided face photo as the sole facial reference; preserve 100% of the person's real features (face shape, proportions, skin texture, marks, and expression).  
+
+🕷️ Superhero Transformation  
+Automatically transform the person into a fictional superhero, created based on the image and personality conveyed by the face. The costume should reflect their unique essence, with visual elements that express courage, mystery, and power. Include an energetic aura, futuristic details, and abstract symbols that reinforce their heroic identity.  
+
+📐 Format and Atmosphere  
+Vertical portrait format, focus on the foreground, no text or logos. Neon color palette, intense and dramatic atmosphere, modern digital art style with a multiverse aesthetic.

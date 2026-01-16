@@ -1,0 +1,69 @@
+🛡️ NEO-ASTRA SPIDER
+------------------------------------ 
+
+🌌 Ultra-detailed 8K waist-up portrait  
+Photorealistic rendering with cinematic neon lighting, glitch urban aesthetic, abstract multiverse background in magenta, cyan, turquoise, and other vibrant tones.  
+
+🖼️ Face Reference  
+Use the uploaded face photo as the sole facial reference; preserve 100% of the person’s real features (face shape, proportions, skin texture, pores, subtle imperfections, natural lighting on skin, and authentic expression). The face must remain fully realistic, with lifelike detail and natural rendering — no stylization or smoothing.  
+
+🕷️ Spider-Verse Transformation  
+Transform the subject into a fictional superhero within the Spider-Verse aesthetic. The costume must adapt like a chameleon to the clothing, colors, and textures present in the reference image, while maintaining photorealistic integration with the body.  
+
+🌑 Dark Clothing Adaptation  
+If the person wears dark clothing, the suit becomes predominantly dark with glowing accents.  
+
+✨ White and Gold Adaptation  
+If the reference image has predominance of white and gold, the suit harmonizes with those tones, incorporating luminous highlights and metallic accents.  
+
+🔥 Black and Fiery Red Adaptation  
+If the reference image has black and fiery red tones, the suit integrates black armor with glowing crimson fractal lines and flame-like neon highlights.  
+
+💚 Black and Neon Green Adaptation  
+If the reference image has black and neon green tones, the suit integrates sleek black armor with glowing emerald neon veins, fractal spider-web energy lines, and pulsating green highlights that simulate bio-luminescent circuits.  
+
+🔵 Blue and Silver Adaptation  
+If the reference image has blue and silver tones, the suit incorporates metallic silver plating with luminous blue fractals, holographic accents, and radiant neon highlights resembling cosmic frost.  
+
+💜 Purple and Electric Violet Adaptation  
+If the reference image has purple or violet tones, the suit integrates shimmering violet neon fractals, holographic mesh textures, and glowing accents that create a surreal multiversal aura.  
+
+🎨 Design Characteristics  
+The design must remain sleek, form-fitting, and hyper-detailed, with micro textures, layered fabrics, subtle mesh patterns, luminous highlights, and randomized multiverse-inspired variations. No hood or mask — the face remains fully visible and realistic.  
+
+🛡️ Traje NEO-ASTRA / Especificações  
+- Caso seja mulher: traje feminino com armadura cibernética NEO-ASTRA adaptada às cores predominantes da referência, símbolo de aranha futurista integrado ao peitoral.  
+- Caso seja homem: traje masculino com armadura cibernética NEO-ASTRA adaptada às cores predominantes da referência, símbolo de aranha futurista integrado ao peitoral.  
+
+⚙️ Material e Estrutura  
+Smart compression fabric in synthetic polymer with hexagonal microtextures for mobility and heat dissipation. Flexible carbon fiber reinforcement at joints for maximum protection without loss of agility. Anatomical chest plate in brushed titanium alloy with metallic finish, holographic lines in corresponding color.  
+
+🔆 Símbolo de Aranha Arc-Core  
+Located at the center of the chest, functioning as an energy core similar to Tony Stark’s Arc Reactor but with a stylized spider design. The symbol is formed by luminous lines expanding in fractal patterns across the suit, simulating interconnected energy webs. Each spider leg connects to suit fibers, pulsing in sync with neon glow circuits, creating the sensation of constant connection to a multiversal source.  
+
+🦾 Detalhes de Armadura  
+Segmented modular shoulder pads adaptable to movement with intense luminous details. Reinforced gauntlets with integrated wrist guards designed for combat and energy channeling. Bright ornaments and neon LED lines run across torso and arms simulating futuristic circuits with pulsating glow. High reinforced collar for cervical protection, holographic finish, hidden magnetic connectors for additional equipment, aerodynamic design for interplanetary travel and high-speed combat.  
+
+🌆 Cenário Spider-Verse  
+Generate a dynamic Spider-Verse themed scenario that adapts to the reference image: futuristic cities, glitch effects, neon portals, abstract multiversal symbols, or fragmented textures. The environment must harmonize with the colors, mood, and atmosphere of the reference photo.  
+
+✨ Cenário Branco e Dourado  
+If the photo has predominance of white and gold, the scenario integrates luminous golden fractals, radiant white portals, and glitch textures in harmony with this palette.  
+
+🔥 Cenário Preto e Vermelho  
+If the photo has black and fiery red tones, the scenario integrates bright crimson portals, fiery glitch effects, and fragmented textures resembling burning multiverse rifts.  
+
+💚 Cenário Preto e Verde Neon  
+If the photo has black and neon green tones, the scenario integrates glowing emerald portals, neon glitch fractals, and pulsating green holographic textures that simulate bio-luminescent multiverse cracks.  
+
+🔵 Cenário Azul e Prateado  
+If the photo has blue and silver tones, the scenario integrates radiant silver fractals, icy blue portals, and glitch textures resembling cosmic frost.  
+
+💜 Cenário Roxo e Violeta Elétrico  
+If the photo has purple or violet tones, the scenario integrates surreal violet neon portals, glitch fractals, and holographic textures that evoke a dreamlike multiversal aura.  
+
+📐 Formato e Atmosfera  
+Vertical portrait, waist-up framing, foreground focus, no text or logos. Intense and dramatic atmosphere, modern digital art style, Spider-Verse-inspired randomness in both suit and background, always faithful to photorealism.  
+
+🚫 Negative Prompt  
+Do not alter facial features, proportions, or realism. Do not add lightsabers, masks, or unrelated accessories. Only adapt suit and scenario colors, textures, and highlights to match the palette and atmosphere of the reference image.

@@ -205,7 +205,7 @@
    {
       "id": "IA-12",
       "name": "Lady Cultural Faces™",
-     "desc": "🇧🇷🌿 Entre cores e raízes, o rosto se torna poesia: força, beleza e memória de um povo.",
+      "desc": "🇧🇷🌿 Entre cores e raízes, o rosto se torna poesia: força, beleza e memória de um povo.",
       "promptFile": "prompts/12/prompt.txt",
       "basePath": "prompts/12",
       "files": [
@@ -235,6 +235,82 @@
          "photorealistic",
          "urban",
          "fashion"
+      ],
+      "notes": "🖼️ Anexar imagem de referência sua ou de qualquer outro personagem.💡 Complementar ou alterar o prompt com informações adicionais."
+   },
+   {
+      "id": "IA-14",
+      "name": "Glitch Superhero Essence",
+      "desc": "🌌🕷️ No caos urbano de neon, surge um herói forjado na própria identidade. Fragmentos e símbolos se entrelaçam em sua pele, revelando coragem e mistério. Entre luzes vermelhas e pretas, sua presença é aura viva — poder que transcende o multiverso.",
+      "promptFile": "prompts/14/prompt.txt",
+      "basePath": "prompts/14",
+      "files": [
+         "file_1.png",
+         "file_2.png"
+      ],
+      "category": [
+         "super-herói",
+         "editorial",
+         "fantasia",
+         "arte digital",
+         "multiverso"
+      ],
+      "notes": "🖼️ Anexar imagem de referência sua ou de qualquer outro personagem.💡 Complementar ou alterar o prompt com informações adicionais."
+   },
+   {
+      "id": "IA-15",
+      "name": "Guardião/Guerreira NEO-ASTRA",
+      "desc": "🛡️🌌 Entre sombras e luz, ergue-se a figura que guarda o infinito. O sabre brilha como promessa, a postura firme revela coragem. No silêncio do cosmos, sua presença é destino — força que atravessa eras e mundos.",
+      "promptFile": "prompts/15/prompt.txt",
+      "basePath": "prompts/15",
+      "files": [
+         "file_1.png",
+         "file_2.png"
+      ],
+      "category": [
+         "cinemática",
+         "editorial",
+         "poético",
+         "épico",
+         "fotorrealismo"
+      ],
+      "notes": "🖼️ Anexar imagem de referência sua ou de qualquer outro personagem.💡 Complementar ou alterar o prompt com informações adicionais."
+   },
+   {
+      "id": "IA-16",
+      "name": "NEO-ASTRA SPIDER",
+      "desc": "🕷️🌌 Entre neon e caos, nasce o herói multiversal. O rosto humano permanece real, mas o traje pulsa como teia de energia. Cada cor reflete mundos possíveis, cada luz revela coragem. No infinito urbano, sua presença é ponte entre destino e mistério.",
+      "promptFile": "prompts/16/prompt.txt",
+      "basePath": "prompts/16",
+      "files": [
+         "file_1.png",
+         "file_2.png",
+         "file_3.png"
+      ],
+      "category": [
+         "super-herói",
+         "editorial",
+         "fantasia",
+         "arte digital",
+         "multiverso"
+      ],
+      "notes": "🖼️ Anexar imagem de referência sua ou de qualquer outro personagem.💡 Complementar ou alterar o prompt com informações adicionais."
+   },
+   {
+      "id": "IA-17",
+      "name": "Rainha Egípcia Cinematográfica",
+      "desc": "👑✨ Ela surge como divindade em carne, olhar penetrante e postura majestosa. Entre ouro e sombras, sua presença é poder e mistério, eternizados em luz e silêncio.",
+      "promptFile": "prompts/17/prompt.txt",
+      "basePath": "prompts/17",
+      "files": [
+         "file_1.png"
+      ],
+      "category": [
+         "cinemática",
+         "editorial",
+         "poético",
+         "épico",
+         "fotorrealismo"
       ],
       "notes": "🖼️ Anexar imagem de referência sua ou de qualquer outro personagem.💡 Complementar ou alterar o prompt com informações adicionais."
    }
