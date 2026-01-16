@@ -205,7 +205,7 @@
    {
       "id": "IA-12",
       "name": "Lady Cultural Faces™",
-      "desc": "🇧🇷🌿 Um close-up editorial hiper-realista: rosto humano fiel à referência, enriquecido com tatuagens de onça-pintada, folhas de café e padrões indígenas. Maquiagem em verde, amarelo e azul, acessórios dourados e inspiração carnavalesca.",
+     "desc": "🇧🇷🌿 Entre cores e raízes, o rosto se torna poesia: força, beleza e memória de um povo.",
       "promptFile": "prompts/12/prompt.txt",
       "basePath": "prompts/12",
       "files": [
@@ -216,6 +216,24 @@
          "editorial",
          "fantasia",
          "arte digital",
+         "fashion"
+      ],
+      "notes": "🖼️ Anexar imagem de referência sua ou de qualquer outro personagem.💡 Complementar ou alterar o prompt com informações adicionais."
+   },
+   {
+      "id": "IA-13",
+      "name": "Secret Agent on Helipad",
+      "desc": "🕶️🌧️ No vento e na chuva, ela permanece firme. Força e elegância diante do caos.",
+      "promptFile": "prompts/13/prompt.txt",
+      "basePath": "prompts/13",
+      "files": [
+         "file_1.png"
+      ],
+      "category": [
+         "cinematic",
+         "editorial",
+         "photorealistic",
+         "urban",
          "fashion"
       ],
       "notes": "🖼️ Anexar imagem de referência sua ou de qualquer outro personagem.💡 Complementar ou alterar o prompt com informações adicionais."

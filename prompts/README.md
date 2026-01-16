@@ -156,8 +156,21 @@
 
 🔗 [Ver 12/prompt.txt](12/prompt.txt)
 
-> 🇧🇷🌿 Um close-up editorial hiper-realista: rosto humano fiel à referência, enriquecido com tatuagens de onça-pintada, folhas de café e padrões indígenas. Maquiagem em verde, amarelo e azul, acessórios dourados e inspiração carnavalesca.
+> 🇧🇷🌿 Entre cores e raízes, o rosto se torna poesia: força, beleza e memória de um povo.
 
 ![👑 The Princess of Green Whispers](12/file_1.png)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🕶️ Secret Agent on Helipad</strong></summary>
+
+🔗 [Ver 13/prompt.txt](13/prompt.txt)
+
+> 🕶️🌧️ No vento e na chuva, ela permanece firme. Força e elegância diante do caos.
+
+![👑 The Princess of Green Whispers](13/file_1.png)
 
 </details>

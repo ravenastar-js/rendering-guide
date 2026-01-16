@@ -1,0 +1,5 @@
+Realistic Portrait, Seductive / Elegant expression, 3/4 shot: Woman in a sleek secret agent / forensic police uniform with dark sunglasses stands on a rain-slicked helipad. Hair is violently wind-whipped by the approaching heavy helicopter downdraft. Chrome grating detail, vast urban skyline., Natural Sunlight lighting, Full Body, Low Angle, Photorealistic, Sharp Focus, Skin Texture, Ray Tracing, detailed skin pores, 8k resolution.
+
+📸 Reference  
+Use the provided reference image as a strict facial, body, tattoos, and hair identity reference.  
+Facial structure, hairstyle, and body proportions must remain unchanged. Preserve micro-expressions, realistic skin texture, and anatomical accuracy. 
