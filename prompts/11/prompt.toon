@@ -1,0 +1,80 @@
+Fairy-Punk-Elven-Beauty.toon
+
+meta:
+  title: Fairy-Punk Elven Beauty
+  adapted_from: @miimosabloom
+  source: threads.com/@miimosabloom/post/DTegyShkpOK
+
+description:
+  main: "Hyper-realistic close-up portrait of a fantasy elven woman with fairy-punk tattooed aesthetic, matching reference image."
+
+features:
+  eyes_gaze:
+    - Gray glassy irises
+    - Large bright doll-like eyes
+    - Dreamy seductive gaze, slightly heavy eyelids
+  eyeliner:
+    - Dramatic elongated winged
+    - Sharp lift toward temples
+    - Thick black upper lash line
+    - Smoked outer corners
+    - Bold fairy-doll shape
+  lashes:
+    - Extra thick long curled
+    - Dense upper, visible strands
+    - Defined lower, long separated
+    - Wide-eyed porcelain effect
+  eyebrows:
+    - Natural thick, soft brown
+    - Two slit lines in one brow
+    - Softly feathered, not harsh
+  eyeshadow:
+    - Coral-rose blended lids
+    - Peach inner corners
+    - Deeper rose outer edges
+    - Subtle shimmer
+  skin:
+    - Porcelain fair
+    - Natural freckles cheeks/nose
+    - Glowing highlight forehead/nose/cheekbones
+    - Realistic texture, glitter particles
+  lips:
+    - Plump glossy black
+    - Soft gradient center
+    - Slightly parted sensual
+  ears_piercings:
+    - Long elegant elf ears
+    - Multiple gold piercings, chain jewelry
+    - Large black gauges both ears
+    - Gold septum ring
+  hair:
+    - Same as reference
+    - Tied behind ears, jewelry visible
+  tattoos:
+    - Detailed fantasy neck/chest
+    - Elven girl faces, animals, floral motifs
+    - Vintage ink colors
+    - Fine-art style
+  accessories:
+    - Layered thin gold necklaces
+    - Gold ear chains
+    - Small gold charms
+  lighting:
+    - Soft studio beauty
+    - Even frontal glow
+    - Gentle cheekbone/jaw shadows
+  camera:
+    - Close-up portrait
+    - 85mm lens look
+    - Shallow depth of field
+    - Ultra sharp focus eyes/lashes/lips
+  background:
+    - Soft pastel neutral studio
+    - Clean minimal
+  style:
+    - Hyper-realistic fantasy editorial
+    - Fairy-punk elf aesthetic
+    - 8K detail
+    - Luxury beauty photography
+
+negative_prompts: anime, cartoon, illustration, plastic skin, blur, low resolution, face distortion, extra limbs, unrealistic eyes, deformed ears
